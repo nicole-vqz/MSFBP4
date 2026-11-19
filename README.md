@@ -13,7 +13,7 @@ El caso de estudio analiza un **modelo fenomenológico simplificado del sistema 
 **Programa:** Ingeniería Biomédica  
 **Estudiante:** Nicole Vazquez Alvear · Número de control: C20210923 · lC20210923@tijuana.tecnm.mx  
 
-**Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020  
+**Repositorio de la asignatura:** https://github.com/nicole-vqz/MSFBP4 
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
 
 ---
